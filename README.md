@@ -1,2 +1,2 @@
 # vex
-Application used for testing
+Example application used for testing build pipelines
